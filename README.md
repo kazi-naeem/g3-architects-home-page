@@ -4,7 +4,7 @@ A modern architect landing page built from scratch using HTML5 and CSS3. This is
 
 ## 🌐 Live Demo
 
-Live Website: [https://kazi-naeem.github.io/g3-architects-landing-page/]
+Live Website: https://kazi-naeem.github.io/g3-architects-landing-page/
 
 ## 📸 About the Project
 
